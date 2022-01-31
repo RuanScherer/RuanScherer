@@ -3,12 +3,13 @@
 #### My academic background
 - :mortar_board: I'm a computer technician (CEDUP Hermann Hering).
 - :mortar_board: I am studying Information Systems (Uniasselvi).
-- :books: I'm learning more about development using Javascript/Typescript and exploring other languages like Python, C# and Java.
-- ⚡ I love so much to learn and use new technologies in projects.
+- :books: I'm continuously learning about software development using Javascript/Typescript, Java and Flutter (Dart).
+- ⚡ I love so much to learn and use new technologies in real projects.
 
 #### Where I worked
 - :globe_with_meridians: I worked for a few months as a freelancer developing for the web.
-- :computer: I currently work at Philips Clinical Informatics as a Fullstack Software Developer.
+- :computer: I worked at Philips Clinical Informatics as a Fullstack Software Developer (Web and Desktop).
+- :computer: I'm currently working at Paytrack as a Fullstack Software Developer (Web and Mobile).
 - :rocket: I am interested in collaborating on projects of any kind, using technology and making a difference.
 
 #### Some extras...
