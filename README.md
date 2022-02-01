@@ -1,4 +1,7 @@
-### Hi! Do you want to know a little about me? :smiley:
+# Ruan Scherer
+
+Mobile and Web fullstack developer.
+Lover of technology and developing amazing applications.
 
 #### My academic background
 - :mortar_board: I'm a computer technician (CEDUP Hermann Hering).
@@ -6,16 +9,12 @@
 - :books: I'm continuously learning about software development using Javascript/Typescript, Java and Flutter (Dart).
 - ⚡ I love so much to learn and use new technologies in real projects.
 
-#### Where I worked
-- :globe_with_meridians: I worked for a few months as a freelancer developing for the web.
-- :computer: I worked at Philips Clinical Informatics as a Fullstack Software Developer (Web and Desktop).
-- :computer: I'm currently working at Paytrack as a Fullstack Software Developer (Web and Mobile).
-- :rocket: I am interested in collaborating on projects of any kind, using technology and making a difference.
-
 #### Some extras...
 - :trophy: I was among the 3 best teams of the challenge I chose in the Hackathon NASA Space Apps COVID-19 Challenge.
 - :trophy: Together with the team, I came second in the Inter Hack Shift 2019
 - :trophy: I was on the Hackathon Shift Smart Cities 2019 champion team.
+
+:rocket: I am interested in collaborating on projects of any kind, using technology and making the difference.
 
 #### Contact me
 - [LinkedIn](https://www.linkedin.com/in/ruan-scherer/)
