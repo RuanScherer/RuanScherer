@@ -1,7 +1,7 @@
 # Ruan Scherer
 
-Mobile and Web fullstack developer.
-Lover of technology and developing amazing applications.
+<p>Mobile and Web fullstack developer.</p>
+<p>Lover of technology and developing amazing applications.</p>
 
 #### My academic background
 - :mortar_board: I'm a computer technician (CEDUP Hermann Hering).
