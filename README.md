@@ -1,21 +1,15 @@
-# Ruan Scherer
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruan.scherer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-scherer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ruan.vscherer) 
 
-<p>Mobile and Web fullstack developer.</p>
-<p>Lover of technology and developing amazing applications.</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RuanScherer&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RuanScherer&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanScherer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### My academic background
-- :mortar_board: I'm a computer technician (CEDUP Hermann Hering).
-- :mortar_board: I am studying Information Systems (Uniasselvi).
-- :books: I'm continuously learning about software development using Javascript/Typescript, Java and Flutter (Dart).
-- ⚡ I love so much to learn and use new technologies in real projects.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RuanScherer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-#### Some extras...
-- :trophy: I was among the 3 best teams of the challenge I chose in the Hackathon NASA Space Apps COVID-19 Challenge.
-- :trophy: Together with the team, I came second in the Inter Hack Shift 2019
-- :trophy: I was on the Hackathon Shift Smart Cities 2019 champion team.
-
-:rocket: I am interested in collaborating on projects of any kind, using technology and making the difference.
-
-#### Contact me
-- [LinkedIn](https://www.linkedin.com/in/ruan-scherer/)
-- [Instagram](https://www.instagram.com/ruan.scherer/?hl=pt-br)
+---
+[![](https://visitcount.itsvg.in/api?id=RuanScherer&icon=5&color=0)](https://visitcount.itsvg.in)
